@@ -1,0 +1,4 @@
+Etapa	Ação	Arquivo	Critério de aceite
+1. Conferir cobertura	Comparar o rascunho com todas as seções do modelo e identificar inconsistências.	docs/specs/dms-spec.md	Objetivo, escopo, requisitos, modelo de dados, contratos, decisões e etapas de execução estão contemplados.
+2. Revisar e completar	Preservar as decisões atuais — X-User-Id, limite padrão de 10 MiB, metadados em memória, arquivos locais via Multer diskStorage — e ajustar inconsistências no texto e nos exemplos.	docs/specs/dms-spec.md	Requisitos, campos, exemplos de resposta, status e erros da API são coerentes entre si.
+3. Validar o escopo	Conferir os critérios de aceite e o plano de execução documentado para o desenvolvimento futuro.	docs/specs/dms-spec.md	O plano descreve etapas futuras de backend e frontend, mas nenhum arquivo dessas áreas é executado ou alterado nesta tarefa.
