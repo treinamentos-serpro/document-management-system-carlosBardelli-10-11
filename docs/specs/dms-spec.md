@@ -306,4 +306,4 @@ frontend é criado ou alterado por este plano; o único entregável desta tarefa
   revisar documentação de execução e limites de persistência.
 - **Aceite:** testes relevantes e build passam; fluxo de upload-listagem-
   download funciona pelo proxy; reinício do backend não é apresentado como
-  persistência garantida dos metadados.
+  persistência garantida dos metadados..
